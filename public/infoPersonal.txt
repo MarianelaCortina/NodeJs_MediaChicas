@@ -1,0 +1,7 @@
+Nombre: Marianela
+Apellido: Cortina
+Profesión: Desarrolladora Web
+Trabajo: Pasante 
+Email: mariancort25@gmail.com
+Ciudad: C.A.B.A
+País: Argentina
