@@ -1,2 +1,2 @@
-# NodeJs_MediaChicas
+# myapp
 Proyecto base "myapp" realizado con Node.JS, Express, consumiendo apis
